@@ -1,0 +1,11 @@
+x=['a',['bb',['ccc','ddd'],'ee','ff'],'g',['hh','ii'],'j']
+x[0]='sunrice'
+x[1][0]='nebula'
+x[1][1][0]=42
+x[1][1][1:]=[]
+x[1][2:4]=('pi','phi')
+x[2]='mount'
+x[3][0]='node'
+x[3][1]=('leaf','stem')
+x[4]='finito'
+print(x)
