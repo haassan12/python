@@ -62,12 +62,3 @@ par.show_details()
 con=consultant("hassan",21,108,8.30,"css")
 con.show_details()
 
-
-
-
-
-    
-
-        
-
-
